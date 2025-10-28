@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530305387527",
+    "project_id": "smart-farming-app-6df71",
+    "storage_bucket": "smart-farming-app-6df71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530305387527:android:6b8e448ee5c846c16f2ea2",
+        "android_client_info": {
+          "package_name": "com.example.smart_farming_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK-AGP7pGL-ArsU5irY4OeHFSYISib6uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
