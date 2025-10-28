@@ -42,3 +42,6 @@ android {
 flutter {
     source = "../.."
 }
+
+// 🔽 Tambahkan baris ini di paling bawah
+apply(plugin = "com.google.gms.google-services")
